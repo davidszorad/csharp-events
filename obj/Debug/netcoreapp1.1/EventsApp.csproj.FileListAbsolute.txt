@@ -1,0 +1,9 @@
+C:\david\EventsApp\EventsApp\bin\Debug\netcoreapp1.1\EventsApp.deps.json
+C:\david\EventsApp\EventsApp\bin\Debug\netcoreapp1.1\EventsApp.runtimeconfig.json
+C:\david\EventsApp\EventsApp\bin\Debug\netcoreapp1.1\EventsApp.runtimeconfig.dev.json
+C:\david\EventsApp\EventsApp\bin\Debug\netcoreapp1.1\EventsApp.dll
+C:\david\EventsApp\EventsApp\bin\Debug\netcoreapp1.1\EventsApp.pdb
+C:\david\EventsApp\EventsApp\obj\Debug\netcoreapp1.1\EventsApp.csprojResolveAssemblyReference.cache
+C:\david\EventsApp\EventsApp\obj\Debug\netcoreapp1.1\EventsApp.AssemblyInfo.cs
+C:\david\EventsApp\EventsApp\obj\Debug\netcoreapp1.1\EventsApp.dll
+C:\david\EventsApp\EventsApp\obj\Debug\netcoreapp1.1\EventsApp.pdb
